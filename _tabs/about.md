@@ -8,7 +8,8 @@ order: 4
 {: .prompt-tip }
 
 Hassan Aloshari
-Cloud Engineer | Aspiring Cloud Security Architect
+
+- Cloud Engineer | Aspiring Cloud Security Architect
 
 Passionate about Cloud Security and Infrastructure-as-Code. 
 I spend my time building production-ready Kubernetes environments and designing secure cloud architectures in Azure, AWS, and GCP.
