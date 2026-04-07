@@ -4,8 +4,8 @@ timezone: UTC
 title: Hassan Aloshari
 tagline: Cloud Engineer | Aspiring Cloud Security Architect
 
-url: 'https://hasko0.github.io/aloshari.github.io/'
-
+#url: 'https://hasko0.github.io/aloshari.github.io/'
+url: "https://hasko0.github.io"
 # Social
 social:
   name: Hassan Aloshari
@@ -19,4 +19,4 @@ social:
 authors:
   hassan:
     name: Hassan Aloshari
-    url: https://hasko0.github.io/aloshari.github.io/
+    url: https://hasko0.github.io
