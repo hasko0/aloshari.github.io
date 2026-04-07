@@ -1,23 +1,19 @@
 lang: en
-timezone: Asia/Dubai
+timezone: UTC
 title: Hassan Aloshari
 tagline: Cloud Engineer | Aspiring Cloud Security Architect
-description: Personal portfolio of Hassan Aloshari
+#url: 'https://hasko0.github.io/aloshari.github.io/'
 url: "https://hasko0.github.io"
-baseurl: ""
-
-github:
-  username: hasko0
-
-linkedin:
-  username: hassan-aloshari
-
+# Social
 social:
   name: Hassan Aloshari
   email: haloshari@yahoo.com
   links:
     - https://github.com/hasko0
     - https://www.linkedin.com/in/hassan-aloshari/
-
-avatar: /assets/img/avatar.jpg
-theme_mode: dark
+    # Add others as needed
+# Authors
+authors:
+  hassan:
+    name: Hassan Aloshari
+    url: https://hasko0.github.io
