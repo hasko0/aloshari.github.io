@@ -1,5 +1,6 @@
 lang: en
 timezone: Asia/Dubai
+theme: jekyll-theme-chirpy
 
 title: Hassan Aloshari
 tagline: Cloud Engineer | Aspiring Cloud Security Architect
