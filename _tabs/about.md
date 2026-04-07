@@ -1,11 +1,11 @@
-# the default layout is 'page'
+---
 icon: fas fa-info-circle
 order: 4
 ---
 
-## 👋 About Me
-I'm Hassan Aloshari, a Cloud Engineer based in the UAE,
-aspiring to become a Cloud Security Architect.
+## 👋 Hi, I'm Hassan Aloshari
+
+Cloud Engineer based in the UAE, aspiring to become a **Cloud Security Architect**.
 
 ## 🛠️ Skills
 - AWS / Azure / GCP
@@ -14,8 +14,9 @@ aspiring to become a Cloud Security Architect.
 - Linux & Networking
 
 ## 📜 Certifications
-- AWS Certified Solutions Architect
-- (add yours here)
+- Add your certifications here
 
 ## 📬 Contact
-Feel free to reach out at haloshari@yahoo.com
+- 📧 haloshari@yahoo.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hassan-aloshari/)
+- 🐙 [GitHub](https://github.com/hasko0)
